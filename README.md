@@ -1,1 +1,3 @@
 # hellogit
+HELLO GIT
+HELLO CONNIE
